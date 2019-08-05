@@ -1,0 +1,6 @@
+[28-May-2019 12:24:27 America/Chicago] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/kynetuweb/public_html/contact-form/form-process.php on line 38
+[28-May-2019 12:24:27 America/Chicago] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kynetuweb/public_html/contact-form/form-process.php on line 38
+[28-May-2019 12:29:44 America/Chicago] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/kynetuweb/public_html/contact-form/form-process.php on line 38
+[28-May-2019 12:29:44 America/Chicago] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kynetuweb/public_html/contact-form/form-process.php on line 38
+[28-May-2019 12:36:44 America/Chicago] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/kynetuweb/public_html/contact-form/form-process.php on line 38
+[28-May-2019 12:36:44 America/Chicago] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kynetuweb/public_html/contact-form/form-process.php on line 38
